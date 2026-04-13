@@ -108,7 +108,7 @@ Consumo de APIs REST com autenticação, tratamento de erros e organização de 
 <td valign="top">
 
 <br><br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=l-emilio&theme=dark" />
+<img src="https://streak-stats.demolab.com?user=l-emilio&theme=dark" />
 
 </td>
 
