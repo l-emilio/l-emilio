@@ -5,7 +5,7 @@
 <h2 align="center">MISSION PROFILE</h2>
 
 <p align="center">
-  Backend Developer
+  Desenvolvimento Back-end
 </p>
 
 ---
@@ -20,16 +20,17 @@
 <td valign="top">
 
 ```bash
-> establishing secure connection...
-> codec frequency detected...
-> transmission started
+> connection established
+> profile access granted
 ```
 
-Sou estudante de Sistemas de Informação (5º período) com foco em desenvolvimento backend utilizando C# (.NET) e Python, além de conhecimentos em Java e desenvolvimento web com HTML, CSS e JavaScript.
+Estudante de Sistemas de Informação com foco em Desenvolvimento Back-end, Integração de Sistemas, Automação de Processos e Análise de Dados.
 
-Atuo no desenvolvimento de automações, integrações com APIs REST e processamento de dados, incluindo lógica de autenticação, manipulação de dados e integração com bancos de dados.
+Atualmente participo de um estágio interno utilizando C# (.NET) e tecnologias Cloud, atuando em integrações de sistemas, automações e processamento de dados.
 
-Tenho facilidade em análise de problemas, organização de código e trabalho em equipe, além de experiência em comunicação técnica como professora de inglês e inglês avançado (B2).
+Possuo conhecimento em Python, SQL e desenvolvimento de soluções voltadas para otimização de processos.
+
+Também atuo como professora de inglês e possuo proficiência C2.
 
 > Stay focused. This mission matters.
 
@@ -57,6 +58,7 @@ Tenho facilidade em análise de problemas, organização de código e trabalho e
 ![REST API](https://img.shields.io/badge/REST_API-1a1a1a?style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-1a1a1a?style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/CSS3-1a1a1a?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-1a1a1a?style=for-the-badge)
 
 > Use the right tools for the mission.
 
@@ -76,7 +78,7 @@ Tenho facilidade em análise de problemas, organização de código e trabalho e
 <td valign="top">
 
 **[Sistema de Help Desk em C#](https://github.com/l-emilio/sistema-chamados)**  
-Sistema de help desk para gerenciamento de chamados e suporte técnico
+Sistema de help desk para gerenciamento de chamados e suporte técnico em
 
 <br>
 
