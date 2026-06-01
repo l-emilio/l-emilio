@@ -5,7 +5,7 @@
 <h2 align="center">MISSION PROFILE</h2>
 
 <p align="center">
-  Desenvolvimento Back-end
+  Backend Development
 </p>
 
 ---
