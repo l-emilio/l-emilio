@@ -75,8 +75,14 @@ Tenho facilidade em análise de problemas, organização de código e trabalho e
 </td>
 <td valign="top">
 
+**[Sistema de Help Desk em C#](https://github.com/l-emilio/sistema-chamados)**  
+Sistema de help desk para gerenciamento de chamados e suporte técnico
+
+<br>
+
 **[Sistema de Login em C#](https://github.com/l-emilio/sistemalogin-csharp)**  
 Implementação de autenticação de usuários, manipulação de dados e estruturação de lógica backend.
+
 
 <br>
 
