@@ -24,13 +24,13 @@
 > profile access granted
 ```
 
-Estudante de Sistemas de Informação com foco em Desenvolvimento Back-end, Integração de Sistemas, Automação de Processos e Análise de Dados.
+Information Systems student focused on Backend Development, System Integration, Process Automation and Data Analysis.
 
-Atualmente participo de um estágio interno utilizando C# (.NET) e tecnologias Cloud, atuando em integrações de sistemas, automações e processamento de dados.
+Currently participating in an internal internship using C# (.NET) and Cloud technologies, contributing to system integrations, automation solutions and data processing.
 
-Possuo conhecimento em Python, SQL e desenvolvimento de soluções voltadas para otimização de processos.
+Knowledge of Python, SQL and software development focused on process optimization.
 
-Também atuo como professora de inglês e possuo proficiência C2.
+I also work as an English teacher and hold C2 proficiency.
 
 > Stay focused. This mission matters.
 
@@ -77,29 +77,23 @@ Também atuo como professora de inglês e possuo proficiência C2.
 </td>
 <td valign="top">
 
-**[Sistema de Help Desk em C#](https://github.com/l-emilio/sistema-chamados)**  
-Sistema de help desk para gerenciamento de chamados e suporte técnico em
+**[C# Help Desk System](https://github.com/l-emilio/sistema-chamados)**      
+Help desk system for ticket management and technical support.
 
 <br>
 
-**[Sistema de Login em C#](https://github.com/l-emilio/sistemalogin-csharp)**  
-Implementação de autenticação de usuários, manipulação de dados e estruturação de lógica backend.
-
-
-<br>
-
-**[Projeto de Análise de Dados em Python](https://github.com/l-emilio/projeto)**  
-Tratamento, organização e análise de dados utilizando scripts automatizados.
+**[C# Login System](https://github.com/l-emilio/sistemalogin-csharp)**  
+Implementation of user authentication, data manipulation, and backend logic structuring.
 
 <br>
 
-**[Portfólio Web](https://github.com/l-emilio/portfolio)**  
-Desenvolvimento de interface responsiva com HTML, CSS e JavaScript.
+**[Python Data Analysis Project](https://github.com/l-emilio/projeto)**  
+Data processing, organization, and analysis using automated scripts.
 
 <br>
 
-**Integrações com API (em andamento)**  
-Consumo de APIs REST com autenticação, tratamento de erros e organização de respostas.
+**API Integrations (In Progress)** 
+Consuming REST APIs with authentication, error handling, and structured responses.
 
 > Stay sharp. One mistake can cost the mission.
 
